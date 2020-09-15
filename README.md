@@ -45,6 +45,9 @@ And done, you can now "collect" your YAML:
 npm install
 ```
 
+In order for search to work you need to create a personal access token and replace
+`------- YOUR AUTH TOKEN HERE -------` in `main.ts` with it.
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
